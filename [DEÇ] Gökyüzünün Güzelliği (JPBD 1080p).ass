@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 Title: Dantel Entel
 PlayResX: 1920
 PlayResY: 1080
@@ -294,7 +294,7 @@ Dialogue: 10,0:10:36.66,0:10:37.99,Default,,0,0,0,,Baba.
 Dialogue: 10,0:10:38.99,0:10:43.33,Default,,0,0,0,,Bugün de mi tapınakta çalışacaksınız?
 Dialogue: 10,0:10:43.33,0:10:44.17,Default,,0,0,0,,Aynen.
 Dialogue: 10,0:10:44.17,0:10:45.75,Default,,0,0,0,,Dokuz gibi bitirin ama.
-Dialogue: 10,0:10:45.75,0:10:50.17,Default,,0,0,0,,Bas gitarın alt perdelerde fazla yankılanıyor.
+Dialogue: 10,0:10:45.75,0:10:50.17,Default,,0,0,0,,Bas gitarın alt perdelerde fazla uğultu yapıyor.
 Dialogue: 10,0:10:52.92,0:10:55.72,Default,,0,0,0,,Evimde ses yalıtımı olan bir oda var.
 Dialogue: 10,0:10:57.26,0:10:59.43,Default,,0,0,0,,Abi istemiyor muydun hem?
 Dialogue: 10,0:10:59.93,0:11:00.93,Default,,0,0,0,,Ha?
@@ -527,7 +527,7 @@ Dialogue: 10,0:24:45.67,0:24:48.59,Default,,0,0,0,,Demek ki kaderde yazılıymı
 Dialogue: 10,0:24:48.59,0:24:49.76,Default,,0,0,0,,Harika bir sürpriz oldu.
 Dialogue: 10,0:24:50.18,0:24:54.35,Default,,0,0,0,,Yerel bir halk müziği yazmaya\Nen uygun kişi olduğunuzu düşündüm...
 Dialogue: 10,0:24:54.35,0:24:57.43,Default,,0,0,0,,...bu yüzden etkinlikten\Ngörüntü topluyordum.
-Dialogue: 10,0:24:57.43,0:25:00.44,Default,,0,0,0,,Eski bir dostumu arka grubunuzda\Ngörmek çok iyi oldu!
+Dialogue: 10,0:24:57.43,0:25:00.44,Default,,0,0,0,,Eski bir dostumu alt grubunuzda\Ngörmek çok iyi oldu!
 Dialogue: 10,0:25:00.44,0:25:01.40,Default,,0,0,0,,Değil mi, Şinno?
 Dialogue: 10,0:25:01.40,0:25:02.77,Default,,0,0,0,,Acıttı.
 Dialogue: 10,0:25:02.77,0:25:05.98,Default,,0,0,0,,Şinnoske için de harika bir\Neve dönüş hikayesi olacak.
@@ -758,7 +758,7 @@ Dialogue: 10,0:38:25.99,0:38:29.58,Default,,0,0,0,,Harika! Performanslarında\Nt
 Dialogue: 10,0:38:29.58,0:38:33.29,Default,,0,0,0,,Bu, festivaldeki en göz alıcı gösteri olacak.
 Dialogue: 10,0:38:50.43,0:38:51.60,Default,,0,0,0,,Harika!
 Dialogue: 10,0:38:52.02,0:38:53.85,Default,,0,0,0,,Aferin, Ao!
-Dialogue: 10,0:38:53.85,0:38:57.44,Default,,0,0,0,,O yaşta profesyonel bir\Narka grupta çalacaksın demek.
+Dialogue: 10,0:38:53.85,0:38:57.44,Default,,0,0,0,,O yaşta profesyonel bir\Nalt grupta çalacaksın demek.
 Dialogue: 10,0:38:57.44,0:39:00.03,Default,,0,0,0,,İşlerini göreceğim diyelim.
 Dialogue: 10,0:39:00.03,0:39:01.53,Default,,0,0,0,,Ne güzel işte.
 Dialogue: 10,0:39:01.53,0:39:03.70,Default,,0,0,0,,Gerçek Şinno'ya\Nne kadar yakın olursan...
@@ -1157,7 +1157,7 @@ Dialogue: 10,1:04:53.54,1:04:55.25,Default,,0,0,0,,Çalsana.
 Dialogue: 10,1:05:04.26,1:05:11.35,Default,,0,0,0,,Tokyo'ya taşındığımda, tüm hayallerim\Ngerçekleşecek sanmıştım.
 Dialogue: 10,1:05:11.35,1:05:14.01,Default,,0,0,0,,Yanılmışım.
 Dialogue: 10,1:05:15.14,1:05:19.44,Default,,0,0,0,,Ama en büyük hayalin gerçek oldu.\NHayatını gitar çalarak kazanıyorsun.
-Dialogue: 10,1:05:19.44,1:05:24.32,Default,,0,0,0,,Halk müziği yapan birinin,\Narka grubunda olmak gibi bir isteğim yoktu.
+Dialogue: 10,1:05:19.44,1:05:24.32,Default,,0,0,0,,Halk müziği yapan birinin,\Nalt grubunda olmak gibi bir isteğim yoktu.
 Dialogue: 10,1:05:24.32,1:05:25.07,Default,,0,0,0,,Yine de-
 Dialogue: 10,1:05:25.07,1:05:27.90,Default,,0,0,0,,Bundan şikayetçi değilim.
 Dialogue: 10,1:05:27.90,1:05:30.28,Default,,0,0,0,,Bay Nitobe'ye minnettarım hatta.
@@ -1407,7 +1407,7 @@ Dialogue: 10,1:24:52.90,1:24:55.24,Default,,0,0,0,,Sen gitmiyorsan, kim gidecek?
 Dialogue: 10,1:24:56.82,1:24:58.99,Default,,0,0,0,,Beni hayal kırıklığına uğratma.
 Dialogue: 10,1:25:00.16,1:25:01.99,Default,,0,0,0,,Şinno.
 Dialogue: 10,1:25:01.99,1:25:07.83,Default,,0,0,0,,Büyük bir müzisyen olarak gelip,\NAkane'yi yanına alıp dönmeyecek miydin?
-Dialogue: 10,1:25:08.58,1:25:10.88,Default,,0,0,0,,Bunun yerine gidip\Nbir arka grupta çalıyorsun!
+Dialogue: 10,1:25:08.58,1:25:10.88,Default,,0,0,0,,Bunun yerine gidip\Nbir alt grupta çalıyorsun!
 Dialogue: 10,1:25:11.16,1:25:12.38,Default,,0,0,0,,Hem de halk müziği yapan birine!..
 Dialogue: 10,1:25:12.92,1:25:14.34,Default,,0,0,0,,Utanç verici!
 Dialogue: 10,1:25:14.34,1:25:14.88,Default,,0,0,0,,Kes sesini.
